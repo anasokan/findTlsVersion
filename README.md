@@ -27,7 +27,7 @@ Before using this script, ensure that you have the following:
 
 ## Configuration
 
-- You can modify the `hostname` variable in the script to specify a different server and port to check.
+- You can specifyt the host and port using the arguments --host and --port
 
 - The `tls_versions` list in the script contains the TLS versions to check. You can customize this list to include or exclude specific versions.
 
